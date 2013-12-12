@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<AnswerKey xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/AnswerKey.xsd">
+
+             <Question>
+              <QuestionIdentifier>20</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>20No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>21</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>21Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>22</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>22No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>23</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>23Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>24</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>24Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>25</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>25Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>26</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>26Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>27</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>27Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>28</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>28No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>29</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>29No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>30</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>30Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>31</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>31Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>32</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>32Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>33</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>33Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>34</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>34Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>35</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>35No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>36</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>36Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>37</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>37Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>38</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>38No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>39</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>39No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>40</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>40Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>41</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>41No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>42</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>42Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>43</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>43Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>44</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>44Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>45</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>45Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>46</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>46Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>47</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>47No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>48</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>48No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>49</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>49Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           </AnswerKey>

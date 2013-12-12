@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<AnswerKey xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/AnswerKey.xsd">
+
+             <Question>
+              <QuestionIdentifier>11</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>11No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>12</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>12No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>13</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>13No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>14</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>14Yes</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>15</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>15No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>16</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>16No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>17</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>17No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>18</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>18No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>19</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>19No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>20</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>20No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           
+             <Question>
+              <QuestionIdentifier>21</QuestionIdentifier>
+              <AnswerOption>
+               <SelectionIdentifier>21No</SelectionIdentifier>
+               <AnswerScore>1</AnswerScore> 
+              </AnswerOption>
+             </Question>
+           </AnswerKey>

@@ -1,0 +1,5 @@
+cp -v ~/temp/output/qualification_in_plane.question ~/eclipse_workspace/SLASH/aws-mturk-clt-1.3.0/samples/in_plane/qualification.question
+cp -v ~/temp/output/qualification_in_plane.answer ~/eclipse_workspace/SLASH/aws-mturk-clt-1.3.0/samples/in_plane/qualification.answer
+
+cp -v ~/temp/output/qualification_plane_to_plane.question ~/eclipse_workspace/SLASH/aws-mturk-clt-1.3.0/samples/plane_to_plane/qualification.question
+cp -v ~/temp/output/qualification_plane_to_plane.answer ~/eclipse_workspace/SLASH/aws-mturk-clt-1.3.0/samples/plane_to_plane/qualification.answer

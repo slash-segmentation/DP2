@@ -1,0 +1,2 @@
+s3cmd put -v -r ~/temp/output/tiles/plane_to_plane s3://supervoxel/dot_examples/tiles/
+
